@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi, I'm Kashaf 👋
-### AI Engineer · Berlin, Germany
+# Hi, I'm Kashaf <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" />
+### AI Engineer | LLMs · RAG · MLOps · Berlin, Germany
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashaf-khan2000)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:22kashaf.khan@gmail.com)
@@ -10,16 +10,38 @@
 </div>
 
 ---
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" height="25" /> A lil about me
 
-## 🧠 About Me
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-AI Engineer with **3+ years** building production ML systems — LLM-powered chatbots, RAG pipelines, Computer Vision deployments, and enterprise AI workflows.
+Hi, I'm Kashaf <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> — an AI Engineer who genuinely enjoys turning ideas into **real, working AI systems**.
 
-- 🏢 Currently: **AI Consultant @ Siemens Mobility**, Berlin — driving AI adoption across business units
-- 🎓 Pursuing **M.Sc. Artificial Intelligence** @ BTU Cottbus — thesis on *Digital Twin-Supported Humanoid Robot Training via RL*
-- 🛠️ Previously: **AI Engineer @ Daraz (Alibaba Group)** and **ML Engineer @ Hackerspace**
-- 🏆 National startup competition winner — **NIB 2022**, presented by the President of Pakistan
-- 🌍 Languages: English (C1) · German (A2)
+I work at the intersection of **LLMs, RAG pipelines, and production ML**, where I build systems that don’t just run in notebooks—but actually scale and solve real problems.
+
+- 🏢 Currently: **AI Consultant @ Siemens Mobility**, Berlin  
+  → Driving AI adoption with LLM-powered solutions across business units  
+
+- 🎓 M.Sc. Artificial Intelligence @ BTU Cottbus  
+  → Working on *Humanoid Robot Training using Reinforcement Learning + Digital Twins* 🤖  
+
+- 🛠️ I love building:
+  - LLM-powered agents with memory & tools  
+  - Retrieval-Augmented Generation (RAG) systems  
+  - End-to-end ML pipelines (training → deployment → monitoring)  
+
+- 🏆 Fun fact: I won a **national startup competition (NIB 2022)** — presented by the President of Pakistan  
+
+- 🌍 Languages: English (C1) · German (A2/B1 — improving daily 🇩🇪)
+
+---
+
+### ⚡ A bit more about me
+
+- I enjoy simplifying complex AI systems into **practical, usable solutions**
+- Big fan of **clean architecture + scalable ML systems**
+- Always curious about what’s next in **GenAI and autonomous agents**
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDE5Mmk1bWo4N2Y0MHRzaTY3OHdyNWc0cDBmZTI2c3NxM2Uyc3o3ciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="50%" />
 
 ---
 
