@@ -17,7 +17,7 @@
   <tr>
     <td width="58%" valign="top">
 
-Hi, I'm Kashaf <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> — an AI Engineer who genuinely enjoys turning ideas into **real, working AI systems**.
+Hi, I'm Kashaf <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> — an AI Engineer.
 
 I work at the intersection of **LLMs, RAG pipelines, and production ML** with ideas with the potential to solve real problems.
 
