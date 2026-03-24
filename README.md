@@ -19,7 +19,7 @@
 
 Hi, I'm Kashaf <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> — an AI Engineer who genuinely enjoys turning ideas into **real, working AI systems**.
 
-I work at the intersection of **LLMs, RAG pipelines, and production ML**, where I build systems that don’t just run in notebooks—but actually scale and solve real problems.
+I work at the intersection of **LLMs, RAG pipelines, and production ML** with ideas with the potential to solve real problems.
 
 - 🏢 Currently: **AI Consultant @ Siemens Mobility**, Berlin  
   → Driving AI adoption with LLM-powered solutions across business units  
@@ -32,9 +32,8 @@ I work at the intersection of **LLMs, RAG pipelines, and production ML**, where 
   - Retrieval-Augmented Generation (RAG) systems  
   - End-to-end ML pipelines (training → deployment → monitoring)  
 
-- 🏆 Fun fact: I won a **national startup competition (NIB 2022)** — presented by the President of Pakistan  
+- 🏆 Fun fact: I won a **National startup competition (NIB 2022)** — presented by the President of Pakistan  
 
-- 🌍 Languages: English (C1) · German (A2/B1 — improving daily)
 
     </td>
     <td width="42%" align="center" valign="top">
