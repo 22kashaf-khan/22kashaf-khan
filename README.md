@@ -10,9 +10,12 @@
 </div>
 
 ---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" height="25" /> About me
 
-<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
 Hi, I'm Kashaf <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> — an AI Engineer who genuinely enjoys turning ideas into **real, working AI systems**.
 
@@ -31,17 +34,35 @@ I work at the intersection of **LLMs, RAG pipelines, and production ML**, where 
 
 - 🏆 Fun fact: I won a **national startup competition (NIB 2022)** — presented by the President of Pakistan  
 
-- 🌍 Languages: English (C1) · German (A2/B1 — improving daily 🇩🇪)
+- 🌍 Languages: English (C1) · German (A2/B1 — improving daily)
+
+    </td>
+    <td width="42%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDE5Mmk1bWo4N2Y0MHRzaTY3OHdyNWc0cDBmZTI2c3NxM2Uyc3o3ciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" alt="About me gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚡ A bit more about me
+## ⚡ Meet my AI Twin
 
-- I enjoy simplifying complex AI systems into **practical, usable solutions**
-- Big fan of **clean architecture + scalable ML systems**
-- Always curious about what’s next in **GenAI and autonomous agents**
+<div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDE5Mmk1bWo4N2Y0MHRzaTY3OHdyNWc0cDBmZTI2c3NxM2Uyc3o3ciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="50%" />
+<a href="https://22kashaf-khan.github.io">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Chat with Kashaf's AI Twin" width="30%" />
+</a>
+
+<br><br>
+
+Curious about what I’ve built, what I care about, or whether I think AI will take over the world?  
+Ask my AI twin.
+
+<br><br>
+
+[![Chat with my AI Twin](https://img.shields.io/badge/Chat%20with%20my%20AI%20Twin-58a6ff?style=for-the-badge&logo=googlechat&logoColor=white)](https://22kashaf-khan.github.io)
+
+</div>
 
 ---
 
@@ -94,31 +115,9 @@ I work at the intersection of **LLMs, RAG pipelines, and production ML**, where 
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
 
-![Kashaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22kashaf-khan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22kashaf-khan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
-
-## 💼 Experience Highlights
-
-```
-Siemens Mobility, Berlin         AI Consultant / Expert          Oct 2024 – Present
-Daraz (Alibaba Group), Karachi   AI Engineer                     Jun 2023 – Nov 2023
-Hackerspace, Karachi             Machine Learning Engineer        Jan 2022 – Feb 2023
-TriadZone (Startup), Karachi     Co-Founder                      Feb 2022 – Jul 2023
-```
-
----
-
-<div align="center">
-
-*Open to interesting AI/ML collaborations and research discussions.*
+*Open to interesting AI/ML collaborations and research discussions.*  
 **[Let's connect →](mailto:22kashaf.khan@gmail.com)**
 
 </div>
