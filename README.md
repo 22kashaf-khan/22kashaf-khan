@@ -107,10 +107,9 @@ Ask my AI twin.
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔍 [RAG Pipeline for Enterprise Knowledge Retrieval](#) | Hybrid retrieval + reranking + API serving | LangChain · FAISS · FastAPI · Docker |
-| ⚙️ [End-to-End MLOps Platform](#) | Training → tracking → serving → CI/CD automation | MLflow · GitHub Actions · Docker |
+
 | 🤖 [Multimodal AI Agent](#) | Visual Q&A + document retrieval with memory | LLaVA · RAG · LangChain · Docker |
-| 🗑️ [AI Waste Segregation System](#) | Edge-deployed ResNet classifier on Raspberry Pi | PyTorch · ResNet · REST API · IoT |
+
 
 ---
 
