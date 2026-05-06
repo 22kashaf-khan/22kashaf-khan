@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Kashaf <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" />
-### AI Engineer | LLMs · RAG · MLOps · Berlin, Germany
+### ML / AI Engineer | LLMs · RAG · MLOps · Robotics · Berlin, Germany
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashaf-khan2000)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:22kashaf.khan@gmail.com)
