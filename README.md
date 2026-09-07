@@ -2,7 +2,7 @@
 
 # Kashaf Khan
 
-### Robot Learning & Simulation — Isaac Lab · MuJoCo · PPO · Sim-to-Real · Berlin, Germany
+### Robot Learning & Simulation · Isaac Lab · MuJoCo · PPO · Sim-to-Real · Berlin, Germany
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashaf-khan2000)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:22kashaf.khan@gmail.com)
@@ -13,9 +13,9 @@
 
 I build and validate learned controllers for humanoid robots in simulation.
 
-Currently writing my M.Sc. thesis with **Fraunhofer IEM** on Digital Twin-supported reinforcement learning for a humanoid robot — URDF/USD asset pipeline, PPO training in Isaac Lab, and sim-to-real transfer. Alongside that I work as an AI Solutions Consultant at **Siemens Mobility**, benchmarking and prototyping LLM systems for enterprise use.
+Currently writing my M.Sc. thesis with **Fraunhofer IEM** on Digital Twin-supported reinforcement learning for a humanoid robot: URDF/USD asset pipeline, PPO training in Isaac Lab, and sim-to-real transfer. Alongside that I work as an AI Solutions Consultant at **Siemens Mobility**, benchmarking and prototyping LLM systems for enterprise use.
 
-Most of my public work is about a question I find more interesting than "can it walk": **how does a learned controller behave when the model, the contact parameters, or the training objective change — and how do you measure that reproducibly?**
+Most of my public work is about a question I find more interesting than "can it walk": **how does a learned controller behave when the model, the contact parameters, or the training objective change, and how do you measure that reproducibly?**
 
 ---
 
@@ -23,9 +23,9 @@ Most of my public work is about a question I find more interesting than "can it 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Humanoid Simulation Robustness Benchmark](https://github.com/22kashaf-khan/humanoid-simulation-robustness-benchmark)** | Trained and froze a Unitree H1 PPO locomotion policy, then built an independent benchmark around it — friction, mass, and actuator-effort perturbations across 5 seeds. 95 runs, 9,500 episodes, 44 tests, CI. Includes a custom mechanical-power reward and a matched A/B study: 43.9% power reduction at unchanged survival, but *worse* robustness under friction and mass mismatch. | Isaac Lab · RSL-RL · PPO · PyTorch · pytest · GH Actions |
-| **[MuJoCo Contact & Actuator Playground](https://github.com/22kashaf-khan/mujoco-contact-actuator-playground)** | A 2-link leg written from raw MJCF, used to work through contact solver tuning (`solref`), position vs. velocity vs. torque actuators, and sensor logging. Written up as findings — including the ones that turned out to be modelling mistakes. | MuJoCo · MJCF · Python |
-| **[Scholar Multimodal RAG](https://github.com/22kashaf-khan/Scholar-Multimodal-RAG)** | Retrieval pipeline over scientific papers — hybrid dense/sparse retrieval, table-aware PDF ingestion, cross-encoder reranking, RAGAS evaluation. | Weaviate · LangChain · FastAPI · Docker |
+| **[Humanoid Simulation Robustness Benchmark](https://github.com/22kashaf-khan/humanoid-simulation-robustness-benchmark)** | Trained and froze a Unitree H1 PPO locomotion policy, then built an independent benchmark around it: friction, mass, and actuator-effort perturbations across 5 seeds. 95 runs, 9,500 episodes, 44 tests, CI. Includes a custom mechanical-power reward and a matched A/B study: 43.9% power reduction at unchanged survival, but *worse* robustness under friction and mass mismatch. | Isaac Lab · RSL-RL · PPO · PyTorch · pytest · GH Actions |
+| **[MuJoCo Contact & Actuator Playground](https://github.com/22kashaf-khan/mujoco-contact-actuator-playground)** | A 2-link leg written from raw MJCF, used to work through contact solver tuning (`solref`), position vs. velocity vs. torque actuators, and sensor logging. Written up as findings, including the ones that turned out to be modelling mistakes. | MuJoCo · MJCF · Python |
+| **[Scholar Multimodal RAG](https://github.com/22kashaf-khan/Scholar-Multimodal-RAG)** | Retrieval pipeline over scientific papers: hybrid dense/sparse retrieval, table-aware PDF ingestion, cross-encoder reranking, RAGAS evaluation. | Weaviate · LangChain · FastAPI · Docker |
 
 ---
 
@@ -70,10 +70,10 @@ Most of my public work is about a question I find more interesting than "can it 
 
 ## Background
 
-**M.Sc. Artificial Intelligence** — BTU Cottbus-Senftenberg, 2023–2026
-**B.Sc. Software Engineering** — SSUET Karachi
+**M.Sc. Artificial Intelligence**, BTU Cottbus-Senftenberg, 2023-2026  
+**B.Sc. Software Engineering**, SSUET Karachi
 
-Before robotics: three years of production ML — computer vision and NLP models at Hackerspace Karachi, LLM-powered customer support at Daraz (Alibaba Group), and an AI/IoT waste-segregation startup that won the National Idea Bank 2022.
+Before robotics: three years of production ML. Computer vision and NLP models at Hackerspace Karachi, LLM-powered customer support at Daraz (Alibaba Group), and an AI/IoT waste-segregation startup that won the National Idea Bank 2022.
 
 ---
 
