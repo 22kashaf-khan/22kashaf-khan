@@ -1,121 +1,91 @@
 <div align="center">
 
-# Hi, I'm Kashaf <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" />
-### ML / AI Engineer | LLMs · RAG · MLOps · Robotics · Berlin, Germany
+# Kashaf Khan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashaf-khan2000)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:22kashaf.khan@gmail.com)
-[![Location](https://img.shields.io/badge/Berlin-DE-black?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+### Robot Learning & Simulation — Isaac Lab · MuJoCo · PPO · Sim-to-Real · Berlin, Germany
 
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" height="25" /> About me
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
-Hi, I'm Kashaf <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> — an AI Engineer.
-
-I work at the intersection of **LLMs, RAG pipelines, and production ML** with ideas with the potential to solve real problems.
-
-- 🏢 Currently: **AI Consultant @ Siemens Mobility**, Berlin  
-  → Driving AI adoption with LLM-powered solutions across business units  
-
-- 🎓 M.Sc. Artificial Intelligence @ BTU Cottbus  
-  → Working on *Humanoid Robot Training using Reinforcement Learning + Digital Twins* 🤖  
-
-- 🛠️ I love building:
-  - LLM-powered agents with memory & tools  
-  - Retrieval-Augmented Generation (RAG) systems  
-  - End-to-end ML pipelines (training → deployment → monitoring)  
-
-- 🏆 Fun fact: I won a **National startup competition (NIB 2022)** — presented by the President of Pakistan  
-
-
-    </td>
-    <td width="42%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDE5Mmk1bWo4N2Y0MHRzaTY3OHdyNWc0cDBmZTI2c3NxM2Uyc3o3ciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" alt="About me gif" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ Meet my AI Twin
-
-<div align="center">
-
-<a href="https://22kashaf-khan.github.io">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Chat with Kashaf's AI Twin" width="30%" />
-</a>
-
-<br><br>
-
-Curious about what I’ve built, what I care about, or whether I think AI will take over the world?  
-Ask my AI twin.
-
-<br><br>
-
-[![Chat with my AI Twin](https://img.shields.io/badge/Chat%20with%20my%20AI%20Twin-58a6ff?style=for-the-badge&logo=googlechat&logoColor=white)](https://22kashaf-khan.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashaf-khan2000)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:22kashaf.khan@gmail.com)
 
 </div>
 
 ---
 
-## 🔧 Tech Stack
+I build and validate learned controllers for humanoid robots in simulation.
 
-**Languages**
+Currently writing my M.Sc. thesis with **Fraunhofer IEM** on Digital Twin-supported reinforcement learning for a humanoid robot — URDF/USD asset pipeline, PPO training in Isaac Lab, and sim-to-real transfer. Alongside that I work as an AI Solutions Consultant at **Siemens Mobility**, benchmarking and prototyping LLM systems for enterprise use.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+Most of my public work is about a question I find more interesting than "can it walk": **how does a learned controller behave when the model, the contact parameters, or the training objective change — and how do you measure that reproducibly?**
 
-**ML / DL Frameworks**
+---
+
+## Selected Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Humanoid Simulation Robustness Benchmark](https://github.com/22kashaf-khan/humanoid-simulation-robustness-benchmark)** | Trained and froze a Unitree H1 PPO locomotion policy, then built an independent benchmark around it — friction, mass, and actuator-effort perturbations across 5 seeds. 95 runs, 9,500 episodes, 44 tests, CI. Includes a custom mechanical-power reward and a matched A/B study: 43.9% power reduction at unchanged survival, but *worse* robustness under friction and mass mismatch. | Isaac Lab · RSL-RL · PPO · PyTorch · pytest · GH Actions |
+| **[MuJoCo Contact & Actuator Playground](https://github.com/22kashaf-khan/mujoco-contact-actuator-playground)** | A 2-link leg written from raw MJCF, used to work through contact solver tuning (`solref`), position vs. velocity vs. torque actuators, and sensor logging. Written up as findings — including the ones that turned out to be modelling mistakes. | MuJoCo · MJCF · Python |
+| **[Scholar Multimodal RAG](https://github.com/22kashaf-khan/Scholar-Multimodal-RAG)** | Retrieval pipeline over scientific papers — hybrid dense/sparse retrieval, table-aware PDF ingestion, cross-encoder reranking, RAGAS evaluation. | Weaviate · LangChain · FastAPI · Docker |
+
+---
+
+## Stack
+
+**Simulation & RL**
+
+![Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-1a1a1a?style=flat-square&logoColor=white)
+![RSL-RL](https://img.shields.io/badge/RSL--RL-4B5563?style=flat-square&logoColor=white)
+![PPO](https://img.shields.io/badge/PPO-4B5563?style=flat-square&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square&logoColor=white)
+![USD](https://img.shields.io/badge/USD_/_URDF-005F9E?style=flat-square&logoColor=white)
+
+**ML / DL**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square&logoColor=white)
 
-**LLMs & GenAI**
+**Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**LLM Systems**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**MLOps & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat-square&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-6E56CF?style=flat-square&logoColor=white)
+![QLoRA](https://img.shields.io/badge/PEFT_/_QLoRA-FF6B6B?style=flat-square&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Background
 
-| Project | Description | Stack |
-|---|---|---|
+**M.Sc. Artificial Intelligence** — BTU Cottbus-Senftenberg, 2023–2026
+**B.Sc. Software Engineering** — SSUET Karachi
 
-| 🤖 [Multimodal AI Agent](#) | Visual Q&A + document retrieval with memory | LLaVA · RAG · LangChain · Docker |
+Before robotics: three years of production ML — computer vision and NLP models at Hackerspace Karachi, LLM-powered customer support at Daraz (Alibaba Group), and an AI/IoT waste-segregation startup that won the National Idea Bank 2022.
 
+---
+
+Side project: I built an [AI twin](https://22kashaf-khan.github.io) you can ask about my work. Gemini, Vercel, GitHub Pages.
 
 ---
 
 <div align="center">
 
-*Open to interesting AI/ML collaborations and research discussions.*  
-**[Let's connect →](mailto:22kashaf.khan@gmail.com)**
+Open to robotics and RL engineering roles in Germany and Europe.
+Happy to talk about locomotion, evaluation methodology, or anything sim-to-real.
+
+**[22kashaf.khan@gmail.com](mailto:22kashaf.khan@gmail.com)**
 
 </div>
